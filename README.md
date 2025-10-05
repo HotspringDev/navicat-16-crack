@@ -9,7 +9,7 @@ This repository will tell you how Navicat offline activation works.
 When you git-clone this repo, please add `--single-branch` flag so that archived branches won't be cloned to your computer, which saves your time and disk.
 
 ```console
-$ git clone -b linux --single-branch https://github.com/hotspringGG/navicat-16-crack
+$ git clone -b linux --single-branch https://github.com/HotspringDev/navicat-16-crack
 ```
 
 ## 1. How does it work?
